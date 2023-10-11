@@ -18,12 +18,12 @@ public class Day2_TipedataPrimiti {
                 
         System.out.println("tanggal: "+ a);
         System.out.println("umur: "+ b);
-        System.out.println("jam: "+ a);
-        System.out.println("tahun: "+ a);
-        System.out.println("susu dalam fhrenheit: "+ a);
-        System.out.println("berat: "+ a);
-        System.out.println("tinggi: "+ a);
-        System.out.println("semuanya adalah: "+ a);
+        System.out.println("jam: "+ c);
+        System.out.println("tahun: "+ d);
+        System.out.println("suhu dalam fhrenheit: "+ e);
+        System.out.println("berat: "+ f);
+        System.out.println("tinggi: "+ g);
+        System.out.println("semuanya adalah: "+ h);
         
 
      }
