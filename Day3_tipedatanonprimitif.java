@@ -9,7 +9,7 @@ public class Day3_tipedatanonprimitif {
         //String
         String nama = "deananda";
         //Array
-        String[] namapacar = {"eunhyuk","suho", "dazai", "gojo", "lucas"};
+        String[] namaC = {"eunhyuk","suho", "dazai", "gojo", "lucas"};
         
         
     }
